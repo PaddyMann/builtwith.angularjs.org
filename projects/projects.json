@@ -1609,6 +1609,23 @@
         "online radio",
         "internet radio"
       ]
+    },
+	{
+      "name": "Spidergap",
+      "thumb": "spidergap/thumb.png",
+      "desc": "The 360 degree feedback tool that makes it easy for employees to take control of their personal development. Free to sign up and try.",
+      "url": "https://www.spidergap.com",
+      "info": "https://www.spidergap.com/blog",
+      "submitter": "PaddyMann",
+      "submissionDate": "2013-10-10",
+      "tags": [
+		"Production",
+        "Productivity",
+        "AppCache", "OData", "Breeze", "Yii",
+        "jQuery",
+        "360 degree feedback",
+		"360 feedback tool"
+      ]
     }
   ]
 }
